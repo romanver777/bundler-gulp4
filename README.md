@@ -1,6 +1,5 @@
-Сборка работает на gulp версии 4.0. 
-
-1.npm i gulpjs/gulp-cli -g
-
-2.npm i
-3.run gulp
+Сборка работает на gulp версии 4.0.<br>
+<br>
+1.npm i gulpjs/gulp-cli -g<br>
+2.npm i<br>
+3.run gulp<br>
